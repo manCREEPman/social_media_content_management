@@ -1,0 +1,10 @@
+.DS_Store
+node_modules
+/dist
+config.json
+privates.json
+vk_config.v2.json
+venv/
+__pycache__/
+*.db
+/backend/*.json
